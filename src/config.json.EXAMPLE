@@ -1,0 +1,5 @@
+{
+    "username": "TWITCH_USERNAME",
+    "auth": "TWITCH_OAUTHTOKEN",
+    "channel": "TWITCH_CHANNEL"
+}

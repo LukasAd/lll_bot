@@ -1,0 +1,20 @@
+{
+  "name": "twitch-js-typescript-example",
+  "description": "TwitchJS TypeScript example",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "src/bot.ts",
+  "scripts": {
+    "start": "ts-node-dev --respawn --transpile-only src/bot.ts"
+  },
+  "dependencies": {
+    "twitch-js": "^2.0.0-beta.41"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.17",
+    "nodemon": "1.18.4",
+    "ts-node-dev": "^1.1.1",
+    "typescript": "^3.9.7"
+  },
+  "keywords": []
+}
